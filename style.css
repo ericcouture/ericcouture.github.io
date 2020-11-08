@@ -1,0 +1,39 @@
+h1 {
+  font-size: 40px;
+}
+
+marquee {
+  position: fixed;
+  top: 0px;
+}
+
+.tag {
+  padding-left: 33%;
+}
+
+.work {
+  text-align: right;
+  font-size: 30;
+  font-style: italic;
+}
+
+.descrip {
+  text-align: right;
+}
+
+.writing {
+  text-align: right;
+}
+
+/*.pages {
+  width: 100%;
+}*/
+
+#cover {
+  width: 75%;
+  padding-left: 10px;
+}
+
+#video {
+  padding-right: 100px;
+}
