@@ -25,6 +25,11 @@ marquee {
   text-align: right;
 }
 
+.footer {
+  text-align: center;
+  font-style: italic;
+}
+
 /*.pages {
   width: 100%;
 }*/
